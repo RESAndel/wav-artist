@@ -47,6 +47,10 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // Audio visualization colors
+        waveform: "hsl(var(--waveform))",
+        "waveform-secondary": "hsl(var(--waveform-secondary))",
+        frequency: "hsl(var(--frequency))",
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
